@@ -41,3 +41,4 @@ Andare sul sito di [https://cloud.cerebras.ai](https://cloud.cerebras.ai) e:
 4. copiare il token con il bottone arancione
 
 Sul sito di Cerebras, per conoscere i modelli disponibili, andare sulla pagina **Limits**, presente nel menu della pagina.
+CIASO MONDO
